@@ -88,26 +88,34 @@ Graduated April 2010
 RBSE Board
 Secured 73.67% in 10th Grade, 2010
 
-Project: WIRELESS SCADA
-Jan 2016 – May 2016
-Skills Used: C#
-Duration: 4 months,
+Project: WIRELESS SCADA 
+Jan 2016 – May 2016 
+
+Skills Used: C# 
 Software Used: Visual Studio 6.0, Windows XP, Circuit Maker
+
 Description: Controlling the temperature of the load and show the alert when temperature is fluctuating (Low or High). 
 
 Project: BATTERY LEVEL INDICATOR
 Sept 2016 – Decy 2016
+
 Skills Used: PCB fabricate
-Duration: 4 months,
 Software Used: Circuit Maker
+
 Description: It can be used to check car batteries or inverters and to increase the lifetime of batteries. It indicates how much power the battery will be able to supply to electronic apparatus.
 
 Programming Language:   C, Java
+
 Database: MySQL
+
 Web Language: HTML, JavaScript, CSS Framework
+
 Media: Bootstrap, .NET, Adobe Photoshop 2019, Windows Video Editor
+
 IDE: Atom, Sublime, Visual Code , Visual Studio (2019, 2013, 2010)
+
 Web Server: Internet Information Server
+
 Language: English, Hindi
 
 
